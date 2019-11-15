@@ -1,0 +1,21 @@
+{
+    "name": "To do APP",
+    "description": "Task Manager",
+    "keywords": ["publishing", "react", "front-end"],
+    "repository": "https://github.com/nkalyesubula/TODO",
+    "scripts": {},
+    "env": {},
+    "formation": {
+      "web": {
+        "quantity": 1
+      }
+    },
+    "addons": [],
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      }
+    ],
+    "stack": "heroku-18"
+  }
+  

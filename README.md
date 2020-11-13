@@ -1,9 +1,11 @@
-# anda-app
+## Vidly
 
-Anda App is an online web application that is intended to enhance sharing, appraising and reviewing of Ideas, experiences and topical issues through an ethics-centric web platform
+Vidly is a movie web app. Users can view, rate, and sort movies based on genre, stock, rates. The frontend is built on Reactjs.
 
-[![Build Status](https://travis-ci.org/nkalyesubula/AndaApp.svg?branch=develop)](https://travis-ci.org/nkalyesubula/AndaApp)
+## INSRUCTIONS
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/d37f4edc403670ba3a40/maintainability)](https://codeclimate.com/github/nkalyesubula/AndaApp/maintainability)
-
-[![Coverage Status](https://coveralls.io/repos/github/nkalyesubula/AndaApp/badge.svg?branch=develop)](https://coveralls.io/github/nkalyesubula/AndaApp?branch=develop)
+1. Clone the repository
+2. checkout to develop branch
+3. Install the dependences and start the app by running the following commands:
+   - npm i
+   - npm run start
